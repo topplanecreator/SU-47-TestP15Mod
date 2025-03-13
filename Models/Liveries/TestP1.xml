@@ -1,0 +1,12 @@
+<PropertyList>
+
+	<sim>
+		<model>
+			<livery>
+				<name type="string">TestP1, TestP1 #1</name>
+				<texture>Liveries/Testp1.png</texture>
+			</livery>
+		</model>
+	</sim>
+
+</PropertyList>
